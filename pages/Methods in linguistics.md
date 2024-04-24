@@ -1,7 +1,7 @@
 # course materials
 id:: 643f8bfc-4718-417d-a94f-c5d69dd55657
 	- I use [[logseq]] for creating and sharing the course materials.
-	- The materials are available here: https://wuqui.github.io/methling231/.
+	- The materials are available here: https://wuqui.github.io/methling241/.
 - # course description
   id:: 643f2336-49a4-4364-b906-c9632e169d1a
 	- This course will guide you through the entire process of designing a research project in linguistics, from identifying a [[topic]] to presenting a research project proposal in written form (e.g. for a term paper, your BA thesis or Zulassungsarbeit).
