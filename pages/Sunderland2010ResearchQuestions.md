@@ -1,0 +1,4 @@
+- [[paper]] on [[research questions and hypotheses]]
+	- contained in [[Litosseliti2010ResearchMethods]]
+	- [[course bibliography]]
+		- Sunderland, Jane (2010),“Research questions in linguistics”, in Litosseliti (2010: 9-28).

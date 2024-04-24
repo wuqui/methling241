@@ -1,0 +1,4 @@
+- [[paper]] about [[quantitative methods]]
+	- contained in [[Litosseliti2010ResearchMethods]]
+	- [[course bibliography]]
+		- Rasinger, Sebastian (2008), Quantitative Research in Linguistics: An Introduction, London: Continuum Press.

@@ -1,0 +1,11 @@
+- tools for corpus analysis
+	- online platforms
+		- [BNC](http://corpora.lancs.ac.uk/bnc2014/)
+		  collapsed:: true
+			- http://corpora.lancs.ac.uk/bnclab/search
+		- [[english-corpora.org]]
+		- [[Sketch Engine]]
+	- offline tools
+		- [AntConc](https://www.laurenceanthony.net/software/antconc/)
+		- [LancsBox](http://corpora.lancs.ac.uk/lancsbox/#:~:text=%23LancsBox%20is%20a%20new%2Dgeneration,Leading%20research%20in%20corpus%20linguistics.)
+		- WordSmith

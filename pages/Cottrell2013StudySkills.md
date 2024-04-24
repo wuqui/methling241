@@ -1,0 +1,4 @@
+- [[course bibliography]]
+	- Cottrell, Stella. 2013. The study skills handbook, Basingstoke: Palgrave Macmillan.
+- handbook on [[study skills]]
+	- includes a chapter on [[self-management]]

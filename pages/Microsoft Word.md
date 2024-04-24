@@ -1,0 +1,3 @@
+- If you want to work on your Word skills, check out the course *Vorlesung zur Schlüsselqualifikation “IT-Kompetenz”*:
+	- [LRZ](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=971363&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
+	- [Moodle](https://moodle.lmu.de/enrol/index.php?id=28081)

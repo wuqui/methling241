@@ -1,0 +1,15 @@
+- Selecting material and methods
+	- The *aim* of data collection and/or selection is to allow for empirical analyses that (dis-)prove the hypothesis  ➡️  the material has to be suitable for your research questions, provide you with reliable and valid answers.
+	- A *prerequisite* for the analysis of the data is a theoretical framework with features or criteria you can apply. Ideally they are the result of the theoretical part of your project.
+	- Data dealing with language can come from different *sources*, not all of them equally suitable. Instead of using introspective methods which reliy only on the researchers themselves we prefer to observe behavioural data of language users.
+- Types of methods
+	- [[../assets/image_1658394143711_0.png]]
+- Types of analysis
+	- Data can be analysed *quantitatively* with a focus on frequencies, distribution and statistical measures.
+	- Data can be analysed *qualitatively* with an interpretation of how well the choses criteria and theoretical aspects can be applied.
+	- In a purely *theoretical* project data will mainly be used for illustration and as evidence for claims categories) or quantitatively (use statistical methods)- data only as illustration
+- Methods
+	- [[corpora]]
+	- [[questionnaires]]
+	- [[discourse analysis]]
+- [[statistics]]

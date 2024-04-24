@@ -1,0 +1,4 @@
+- consulting service by LMU: http://www.stablab.stat.uni-muenchen.de
+- books #[[course bibliography]]
+    - Brezina, Vaclav (2018), Statistics in corpus linguistics. A practical guide, Cambridge: CUP.
+    - Lowie, Wander & Bregtje Seton (2013), Essential statistics for applied linguistics, London: continuum

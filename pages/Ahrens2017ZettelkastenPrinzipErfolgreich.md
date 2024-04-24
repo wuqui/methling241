@@ -1,0 +1,3 @@
+- [[book]] on [[note-taking]] with the [[Zettelkasten]] method
+- [[course bibliography]]
+	- Ahrens, Sönke. 2017. Das Zettelkasten-Prinzip: Erfolgreich wissenschaftlich schreiben und studieren mit effektiven Notizen. BoD–Books on Demand.
