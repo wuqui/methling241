@@ -1,9 +1,8 @@
 - > Quirin Würschinger, LMU Munich, 2014
-- course materials
+- course materials: https://wuqui.github.io/methling241/
   id:: 643f8bfc-4718-417d-a94f-c5d69dd55657
+  collapsed:: true
 	- I use [[Logseq]] for creating and sharing the course materials.
-	- The materials are available here: https://wuqui.github.io/methling241/.
-	  id:: 66291f0f-f67b-481e-a417-1546d1581e7d
 - schedule
   id:: 643f2336-673c-4882-afe2-ede089a86ea0
 	- id:: 66291f0f-e629-4a65-8096-42f4387070cd

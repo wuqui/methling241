@@ -2,7 +2,7 @@
   collapsed:: true
 	- course materials
 	  collapsed:: true
-		- ((66291f0f-f67b-481e-a417-1546d1581e7d))
+		- The materials are available here: .
 	- registration
 	  collapsed:: true
 		- open issues?
@@ -14,34 +14,38 @@
   collapsed:: true
 	- {{embed ((662a5dac-8887-40a3-b0e5-f7bf2a84b709))}}
 - [[note-taking]]
-	- principles
-		- plain text
+	- plain text
+	  collapsed:: true
+		- {{embed [[plain text]]}}
+	- networked notes
+	  id:: 6451ff83-844b-4d58-8d7f-95ce3bd20491
+	  collapsed:: true
+		- [[mental lexicon]]
 		  collapsed:: true
-			- {{embed [[plain text]]}}
+			- ![](../assets/mental-lexicon.png)
 		- networked notes
-		  id:: 6451ff83-844b-4d58-8d7f-95ce3bd20491
-			- [[mental lexicon]]
-			  collapsed:: true
-				- ![](../assets/mental-lexicon.png)
-			- networked notes
-			  collapsed:: true
-				- ![](../assets/networked-notes.png)
-			- [[Zettelkasten]] method
-			  collapsed:: true
-				- ![](../assets/zettelkasten-method.png)
-				- **origin**: sociologist Niklas Luhmann
-				- **book**: [[Ahrens2017ZettelkastenPrinzipErfolgreich]]
-				- **website**: https://zettelkasten.de/
+		  collapsed:: true
+			- ![](../assets/networked-notes.png)
+		- [[Zettelkasten]] method
+		  collapsed:: true
+			- ![](../assets/zettelkasten-method.png)
+			- **origin**: sociologist Niklas Luhmann
+			- **book**: [[Ahrens2017ZettelkastenPrinzipErfolgreich]]
+			- **website**: https://zettelkasten.de/
 	- tools
+	  collapsed:: true
 		- free options
+		  collapsed:: true
 			- [[Logseq]] (recommended)
 			- [Obsidian](https://obsidian.md/)
 		- paid: [Notion](https://www.notion.so/)
 	- [[practice]]: taking notes using [[Logseq]]
 	  id:: 6451ff83-b00d-4123-8162-fc21975095b9
+	  collapsed:: true
 		- install Logseq from their [website](https://logseq.com/)
 		- create a new graph
 		- start taking notes
+		  collapsed:: true
 			- start with the [template]([[student page]]) for your personal page
 				- make use of indentation
 				- answer the questions provided
