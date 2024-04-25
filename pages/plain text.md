@@ -1,5 +1,5 @@
 - Guide: https://plain-text.co/
-- Advantages
+- advantages
 	- interoperability
 		- over time
 		- with different tools
@@ -7,6 +7,5 @@
 	- editing experience: speed, copy & pasting etc.
 	- export to different formats: docx, html, pdf
 	- version control via git
-- Popular formats
-	- [[Markdown]]
-	- [[org-mode]]
+- popular format: Markdown
+	- {{embed [[Markdown]]}}

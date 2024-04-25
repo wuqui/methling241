@@ -1,15 +1,18 @@
 - organisation
   collapsed:: true
+	- course materials
+	  collapsed:: true
+		- ((66291f0f-f67b-481e-a417-1546d1581e7d))
 	- registration
 	  collapsed:: true
-		- {{embed ((643f815f-94c1-4baf-b4da-4dfbc8a14e46))}}
-	- [[Modulprüfung]]
-	- requirements
+		- open issues?
+	- assessment
 	  collapsed:: true
-		- {{embed ((643f9161-7138-4163-b0f8-3d4062c3d0a2))}}
+		- {{embed ((662a5c90-7e5e-4248-a258-580789c780aa))}}
+	- [[course bibliography]]
 - course overview
   collapsed:: true
-	- {{embed ((643f8370-b798-4ba7-be84-df4f12efc6ab))}}
+	- {{embed ((662a5dac-8887-40a3-b0e5-f7bf2a84b709))}}
 - [[note-taking]]
 	- principles
 		- plain text
@@ -17,31 +20,32 @@
 			- {{embed [[plain text]]}}
 		- networked notes
 		  id:: 6451ff83-844b-4d58-8d7f-95ce3bd20491
-			- the principle
-			  id:: 6451ff83-befc-44c6-809d-554717158ba4
-				- [[mental lexicon]]
-					- ![](../assets/mental-lexicon.png)
-				- networked notes
-					- ![](../assets/networked-notes.png)
+			- [[mental lexicon]]
+			  collapsed:: true
+				- ![](../assets/mental-lexicon.png)
+			- networked notes
+			  collapsed:: true
+				- ![](../assets/networked-notes.png)
 			- [[Zettelkasten]] method
+			  collapsed:: true
 				- ![](../assets/zettelkasten-method.png)
 				- **origin**: sociologist Niklas Luhmann
 				- **book**: [[Ahrens2017ZettelkastenPrinzipErfolgreich]]
 				- **website**: https://zettelkasten.de/
 	- tools
-		- free options (recommended)
-			- [[Logseq]]
+		- free options
+			- [[Logseq]] (recommended)
 			- [Obsidian](https://obsidian.md/)
 		- paid: [Notion](https://www.notion.so/)
-	- [[practice]] : taking notes using [[Logseq]]
+	- [[practice]]: taking notes using [[Logseq]]
 	  id:: 6451ff83-b00d-4123-8162-fc21975095b9
-		- DONE install logseq from their [website](https://logseq.com/)
-		- DONE create a new graph
-		- DONE start with the [template]([[student page]]) for your personal page
-			- DONE download `student page.md` ([[Markdown]] format) from our shared folder [here](https://syncandshare.lrz.de/getlink/fiNpRN4FB9181jt53gvaxB/)
-			- DONE copy it the `pages` folder in your graph directory
-			- DONE name it using your second name + first name’s initial, e.g. `WuerschingerQ`
-		- TODO fill in the template
-			- TODO answer the questions provided
-			- TODO link to important concepts and keywords (e.g. [[corpus linguistics]], [[Twitter]])
-		- TODO upload your personal page to our shared folder [here](https://syncandshare.lrz.de/getlink/fiNpRN4FB9181jt53gvaxB/) on [[LRZ Sync and Share]]
+		- install Logseq from their [website](https://logseq.com/)
+		- create a new graph
+		- start taking notes
+			- start with the [template]([[student page]]) for your personal page
+				- make use of indentation
+				- answer the questions provided
+				- link to important concepts and keywords (e.g. [[corpus linguistics]], [[Twitter]])
+			- take notes on a paper or course materials, also linking to these concepts
+			- check your graph view and your concepts backlinks
+		-

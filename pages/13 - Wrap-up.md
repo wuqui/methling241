@@ -26,7 +26,7 @@
 	  collapsed:: true
 		- principles
 		  collapsed:: true
-			- {{embed ((6451ff83-befc-44c6-809d-554717158ba4))}}
+			- principles
 		- [[Logseq]]
 		  collapsed:: true
 			- ![image.png](../assets/image_1689701095272_0.png)

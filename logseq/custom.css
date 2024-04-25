@@ -1,11 +1,11 @@
 /* block embeds */
 
-div.embed-block > div > div > div > div > div > div > div.block-control-wrap {
-  display: none;
-}
-div.embed-block > div > div > div > div > div > div.block-children-container {
-  margin-left: auto;
-}
-div.embed-block > div > div > div > div > div > div > div.block-children {
-  border-left: none;
-}
+/* div.embed-block > div > div > div > div > div > div > div.block-control-wrap { */
+/*   display: none; */
+/* } */
+/* div.embed-block > div > div > div > div > div > div.block-children-container { */
+/*   margin-left: auto; */
+/* } */
+/* div.embed-block > div > div > div > div > div > div > div.block-children { */
+/*   border-left: none; */
+/* } */
