@@ -20,7 +20,7 @@
 			- the principle
 			  id:: 6451ff83-befc-44c6-809d-554717158ba4
 				- [[mental lexicon]]
-					- ![](./assets/mental-lexicon.png)
+					- ![](../assets/mental-lexicon.png)
 				- networked notes
 					- ![](../assets/networked-notes.png)
 			- [[Zettelkasten]] method
@@ -30,10 +30,10 @@
 				- **website**: https://zettelkasten.de/
 	- tools
 		- free options (recommended)
-			- [[logseq]]
+			- [[Logseq]]
 			- [Obsidian](https://obsidian.md/)
 		- paid: [Notion](https://www.notion.so/)
-	- [[practice]] : taking notes using [[logseq]]
+	- [[practice]] : taking notes using [[Logseq]]
 	  id:: 6451ff83-b00d-4123-8162-fc21975095b9
 		- DONE install logseq from their [website](https://logseq.com/)
 		- DONE create a new graph

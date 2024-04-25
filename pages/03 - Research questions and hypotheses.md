@@ -1,11 +1,11 @@
 tags:: session
 
-- # taking notes using [[logseq]]
+- # taking notes using [[Logseq]]
   collapsed:: true
 	- start taking notes and share your project page
 		- {{embed ((6451ff83-b00d-4123-8162-fc21975095b9))}}
 		- an overview of all student pages is available here: [[students]]
-	- intro to [[logseq]]
+	- intro to [[Logseq]]
 		- demo of fundamental features: [[logseq/demo]]
 		- [documentation](https://docs.logseq.com/#/page/Contents)
 		- introductory video

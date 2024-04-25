@@ -34,7 +34,7 @@
 	- tools
 		- pen and paper
 		- e.g. [todoist](https://todoist.com/) (thousands of similar apps available)
-		- [[logseq]]
+		- [[Logseq]]
 	- frameworks for 'getting things done'
 		- [Getting Things Done](https://gettingthingsdone.com/) by David Allen
 		- [Zen to Done](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/): a simpler version of GTD, by Leo Babauta

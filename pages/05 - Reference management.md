@@ -109,7 +109,7 @@
 	- how to take notes on references
 	  collapsed:: true
 		- general recommendation:
-			- use a tool for ((6451ff83-844b-4d58-8d7f-95ce3bd20491)) (e.g. [[logseq]]) so that you can link notes and thoughts to important concepts (see [[note-taking]])
+			- use a tool for ((6451ff83-844b-4d58-8d7f-95ce3bd20491)) (e.g. [[Logseq]]) so that you can link notes and thoughts to important concepts (see [[note-taking]])
 		- sustainable note-taking
 			- store citation information alongside notes you're taking (e.g. Schmid 2016: 58)
 			- mark everything you copy verbatim to avoid plagiarism
