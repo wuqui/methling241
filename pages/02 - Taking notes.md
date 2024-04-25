@@ -20,7 +20,7 @@
 			- the principle
 			  id:: 6451ff83-befc-44c6-809d-554717158ba4
 				- [[mental lexicon]]
-					- ![](../assets/mental-lexicon.png)
+					- ![](./assets/mental-lexicon.png)
 				- networked notes
 					- ![](../assets/networked-notes.png)
 			- [[Zettelkasten]] method
