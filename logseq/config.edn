@@ -57,7 +57,7 @@
  ;; When :all-pages-public? true, export repo would export all pages within that repo.
  ;; Regardless of whether you've set any page to public or not.
  ;; Example:
- ;; :publishing/all-pages-public? true
+ :publishing/all-pages-public? true
 
  ;; Specify default home page and sidebar status for Logseq
  ;; If not specified, Logseq default opens journals page on startup
@@ -71,7 +71,7 @@
  ;; 1. Setup page "Changelog" as home page and "Contents" in sidebar
  ;; :default-home {:page "Changelog", :sidebar "Contents"}
  ;; 2. Setup page "Jun 3rd, 2021" as home page without sidebar
- ;; :default-home {:page "Jun 3rd, 2021"}
+ :default-home {:page "Methods in linguistics"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
  ;; :default-home {:page "in", :sidebar "hoam"}
@@ -210,7 +210,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["einkaufen" "shopitems" "prov/dies" "Ave11" "CorpLing231" "MethLing231" "Intro231"]
+ :favorites []
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -246,7 +246,7 @@
  ;;  :enabled-in-timestamped-blocks false ;don't display logbook at all
   }
  :journal/page-title-format "EEE, dd.MM.yyyy"
- :zotero/settings-v2 {"default" {:type-id "1408162", :zotero-linked-attachment-base-directory "/Users/quirin/promo/bib/"}}
+ ;;:zotero/settings-v2 {"default" {:type-id "1408162", :zotero-linked-attachment-base-directory "/Users/quirin/promo/bib/"}}
  :editor/preferred-pasting-file? true
  :ui/show-brackets? false
  :ui/auto-expand-block-refs? false
