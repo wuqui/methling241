@@ -1,5 +1,6 @@
 - Guide: https://plain-text.co/
 - advantages
+  collapsed:: true
 	- interoperability
 		- over time
 		- with different tools
@@ -8,4 +9,5 @@
 	- export to different formats: docx, html, pdf
 	- version control via git
 - popular format: Markdown
+  collapsed:: true
 	- {{embed [[Markdown]]}}

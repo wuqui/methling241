@@ -3,4 +3,4 @@
 - Bitte überprüfen Sie deswegen anhand der Übersicht unten und Ihres Stundenplans noch einmal, ob Sie in diesem Semester auch tatsächlich eine Veranstaltung im anderen **Modulteil WP 13.1** belegt haben und für diese auch zugelassen wurden.
 - Sollte dies nicht der Fall sein, wenden Sie sich bitte schnellstmöglich an die Studiengangskoordinatorin (Frau Dr. Günther: studienberatung@anglistik.uni-muenchen.de).
 - Die Anmeldung zur Gesamt-Modulprüfung erfolgt im Prüfungsanmeldezeitraum (17. Juni 2024 –  28. Juni 2024). Bitte melden Sie sich dann bei der DozentIn an, bei der Sie die Veranstaltung für das Modul WP 13.1 besuchen.
-- ![modulpruefung.png](../assets/modulpruefung_1714052143784_0.png)
+- ![modulpruefung.png](../assets/modulpruefung_1714052143784_0.png){:height 383, :width 516}

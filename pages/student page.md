@@ -1,11 +1,10 @@
-- What do I want to learn about in this course?
 - Which project do I want to apply the methods to?
-   - What is the paper for?
-		- term paper: for which course?
-			- course topic?
-			- course lecturer?
-		- thesis: BA, MA?
-			- supervisor?
+	- What is the paper for?
+	- term paper: for which course?
+	- course topic?
+	- course lecturer?
+	- thesis: BA, MA?
+	- supervisor?
 - Which topic (area) do I want to work on?
 - Which research questions and hypothesis do I want to work on?
 - Which data could I use?

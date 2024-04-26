@@ -1,4 +1,5 @@
 - organisation
+  collapsed:: true
 	- ((643f8bfc-4718-417d-a94f-c5d69dd55657))
 	- registration
 	  collapsed:: true
@@ -16,7 +17,6 @@
 		- {{embed [[plain text]]}}
 	- networked notes
 	  id:: 6451ff83-844b-4d58-8d7f-95ce3bd20491
-	  collapsed:: true
 		- [[mental lexicon]]
 		  collapsed:: true
 			- ![](../assets/mental-lexicon.png)
@@ -30,7 +30,6 @@
 			- **book**: [[Ahrens2017ZettelkastenPrinzipErfolgreich]]
 			- **website**: https://zettelkasten.de/
 	- tools
-	  collapsed:: true
 		- free options
 		  collapsed:: true
 			- [[Logseq]] (recommended)
@@ -38,7 +37,6 @@
 		- paid: [Notion](https://www.notion.so/)
 	- [[practice]]: taking notes using [[Logseq]]
 	  id:: 6451ff83-b00d-4123-8162-fc21975095b9
-	  collapsed:: true
 		- install Logseq from their [website](https://logseq.com/)
 		- create a new graph
 		- start taking notes

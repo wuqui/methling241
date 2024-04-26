@@ -9,10 +9,11 @@
 	- active attendance
 	- assessment
 	  id:: 662a5c90-7e5e-4248-a258-580789c780aa
-		- if BA 2019 & WP 13.2:
+		- if BA 2019 & WP 13.2: Modulprüfung
 		  collapsed:: true
 			- {{embed [[Modulprüfung]]}}
 		- writing a research proposal (Thesenpapier)
+		  collapsed:: true
 			- {{embed [[Thesenpapier]]}}
 - schedule
   id:: 643f2336-673c-4882-afe2-ede089a86ea0
