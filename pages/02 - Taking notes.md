@@ -1,8 +1,5 @@
 - organisation
-  collapsed:: true
-	- course materials
-	  collapsed:: true
-		- The materials are available here: .
+	- ((643f8bfc-4718-417d-a94f-c5d69dd55657))
 	- registration
 	  collapsed:: true
 		- open issues?

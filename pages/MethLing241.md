@@ -3,6 +3,17 @@
   id:: 643f8bfc-4718-417d-a94f-c5d69dd55657
   collapsed:: true
 	- I use [[Logseq]] for creating and sharing the course materials.
+- requirements
+  id:: 643f9161-7138-4163-b0f8-3d4062c3d0a2
+  collapsed:: true
+	- active attendance
+	- assessment
+	  id:: 662a5c90-7e5e-4248-a258-580789c780aa
+		- if BA 2019 & WP 13.2:
+		  collapsed:: true
+			- {{embed [[Modulprüfung]]}}
+		- writing a research proposal (Thesenpapier)
+			- {{embed [[Thesenpapier]]}}
 - schedule
   id:: 643f2336-673c-4882-afe2-ede089a86ea0
 	- id:: 66291f0f-e629-4a65-8096-42f4387070cd
@@ -48,15 +59,4 @@
 	- open, workshop-like environment
 	- input from me on selected topics
 	- individual and group work on your projects
-- requirements
-  id:: 643f9161-7138-4163-b0f8-3d4062c3d0a2
-  collapsed:: true
-	- active attendance
-	- assessment
-	  id:: 662a5c90-7e5e-4248-a258-580789c780aa
-		- if BA 2019 & WP 13.2:
-		  collapsed:: true
-			- {{embed [[Modulprüfung]]}}
-		- writing a research proposal (Thesenpapier)
-			- {{embed [[Thesenpapier]]}}
 - [[course bibliography]]

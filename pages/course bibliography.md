@@ -1,1 +1,1 @@
-- [[bibliography]] for [[Methods in linguistics]]
+- [[bibliography]] for [[MethLing241]]
