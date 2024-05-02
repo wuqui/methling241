@@ -1,0 +1,2 @@
+- [[course bibliography]]
+	- Esselborn-Krumbiegel, Helga (2004), Von der Idee zum Text. Eine Anleitung zum wissenschaftlichen Schreiben, Paderborn: Schöningh.
