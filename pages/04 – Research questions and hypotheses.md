@@ -1,0 +1,65 @@
+- research questions
+	- {{embed ((62862ae8-dcf3-49f6-b9b4-0a7fe71fdcce))}}
+- hypotheses
+	- {{embed ((66291f12-2b45-4d0f-b63a-0718eeafd06c))}}
+- criteria
+	- {{embed ((66291f12-f76c-4c68-83e7-edd329fbd8b1))}}
+- [[practice]] : evaluating and improving [[research questions]]
+	- Characterise the features, upsides, and downsides of the following research questions and think of ways to improve them.
+	  collapsed:: true
+		- How does age influence the accommodation process?
+		  collapsed:: true
+			- narrow down age range
+			- age vs generation
+			- which time? → present-day
+			- which place/society?
+			- “influence” → positive vs negative?
+			- “How …”? → more specific, in which ways?
+			- “accommodation” → specify which aspects
+		- Age and gender influence language use.
+		  collapsed:: true
+			- not a question!
+			- “language use” → too broad
+			- “influence”
+			- age & gender? really? pick one
+		- How do teenagers differ from adults in their use of swear words?
+		  collapsed:: true
+			- adults: narrow down group to age range
+			- “how”
+			- “use”: which usage contexts (e.g. text types, register etc.)? frequency?
+			- definition of swear words
+			- time?
+			- place?
+		- The older the teenagers are the less they use swear words.
+		- To what extent do teenagers accommodate to their peers?
+		- Do teenagers accommodate to their peers?
+		- Age can influence language use or not.
+		- Why do teenagers make use of swear words?
+	- further reading
+	  collapsed:: true
+		- [[Litosseliti2010ResearchMethods]]
+		- [[Sunderland2010ResearchQuestions]]: 13ff.
+		- [[Rasinger2010QuantitativeMethods]]: 53ff.
+- [[practice]]: finding research questions and hypothesis
+  id:: 645a6da4-1124-46e4-9517-512df2067082
+	- Which [[topic]] do I want to work on?
+	  collapsed:: true
+		- Is it broad enough to be interesting?
+		- Is it narrow enough to be doable?
+		- Does it have a strong enough linguistic focus?
+	- Which [[research question]] do I want to work on?
+	  collapsed:: true
+		- Is it broad enough to be interesting?
+		- Is it narrow enough to be doable?
+		- Does it have a strong enough linguistic focus?
+	- What are my [hypotheses]([[hypotheses]])?
+	  collapsed:: true
+		- What do I expect the outcome of my study to be?
+		- Why do I expect these results? (e.g. previous studies, theoretical models)
+	- How does my research question relate to [previous work]([[references]])?
+	  collapsed:: true
+		- Has there been previous work on this? From which fields?
+		- How does my project relate to previous work?
+		- Where lies the contribution of my project?
+	- Which [data]([[data]]) could I use to study my research question?
+	- Which [methods]([[methods]]) could I use to test my hypotheses?

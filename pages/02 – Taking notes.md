@@ -38,7 +38,6 @@
 		- example page for testing: [[test page]]
 		- [[practice]]: taking notes using Logseq
 		  id:: 6451ff83-b00d-4123-8162-fc21975095b9
-		  collapsed:: true
 			- install Logseq from their [website](https://logseq.com/)
 			- create a new graph
 			- start taking notes

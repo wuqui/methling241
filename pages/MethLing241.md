@@ -23,7 +23,7 @@
 	  | 2024-04-19 | [[01 – Organisation and introduction]]     |
 	  | 2024-04-26 | [[02 – Taking notes]]                      |
 	  | 2024-05-03 | [[03 – Research questions and hypotheses]] |
-	  | 2024-05-10 | 04 - Research questions and hypotheses |
+	  | 2024-05-10 | [[04 – Research questions and hypotheses]] |
 	  | 2024-05-17 | 05 - Reference management              |
 	  | 2024-05-24 | 06 - Reading                           |
 	  | 2024-05-31 | 07 - Self-management                   |
