@@ -1,6 +1,7 @@
 - writing a research proposal as a thesis paper
 	- format
 		- $\approx$ 3–5 pages (2500–5000 characters)
+		- check your Studien-/Prüfungsordnung for exact details
 	- contents of your research proposal
 		- [[title]] of your research project
 		- [[research questions and hypotheses]]

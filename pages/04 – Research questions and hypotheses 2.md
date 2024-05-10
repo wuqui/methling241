@@ -4,9 +4,8 @@
 	- {{embed ((66291f12-2b45-4d0f-b63a-0718eeafd06c))}}
 - criteria
 	- {{embed ((66291f12-f76c-4c68-83e7-edd329fbd8b1))}}
-- [[practice]] : evaluating and improving [[research questions]]
+- [[practice]]: evaluating and improving [[research questions]]
 	- Characterise the features, upsides, and downsides of the following research questions and think of ways to improve them.
-	  collapsed:: true
 		- How does age influence the accommodation process?
 		  collapsed:: true
 			- narrow down age range
@@ -35,11 +34,10 @@
 		- Do teenagers accommodate to their peers?
 		- Age can influence language use or not.
 		- Why do teenagers make use of swear words?
-	- further reading
-	  collapsed:: true
-		- [[Litosseliti2010ResearchMethods]]
-		- [[Sunderland2010ResearchQuestions]]: 13ff.
-		- [[Rasinger2010QuantitativeMethods]]: 53ff.
+- further reading
+	- [[Litosseliti2010ResearchMethods]]
+	- [[Sunderland2010ResearchQuestions]]: 13ff.
+	- [[Rasinger2010QuantitativeMethods]]: 53ff.
 - [[practice]]: finding research questions and hypothesis
   id:: 645a6da4-1124-46e4-9517-512df2067082
 	- Which [[topic]] do I want to work on?

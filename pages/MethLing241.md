@@ -13,7 +13,6 @@
 		  collapsed:: true
 			- {{embed [[Modulprüfung]]}}
 		- writing a research proposal (Thesenpapier)
-		  collapsed:: true
 			- {{embed [[Thesenpapier]]}}
 - schedule
   id:: 643f2336-673c-4882-afe2-ede089a86ea0
