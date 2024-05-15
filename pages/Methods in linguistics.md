@@ -24,15 +24,15 @@
 	  | 2024-05-03 | [[03 – Research questions and hypotheses 1]] |
 	  | 2024-05-10 | [[04 – Research questions and hypotheses 2]] |
 	  | 2024-05-17 | [[05 - Reference management]] |
-	  | 2024-05-24 | 06 - Reading                           |
-	  | 2024-05-31 | 07 - Self-management                   |
-	  | 2024-06-07 | 08 - Corpus linguistics                |
-	  | 2024-06-14 | 09 - Corpus linguistics                |
-	  | 2024-06-21 | 10 - Questionnaires & interviews       |
-	  | 2024-06-28 | 11 - Analysing data                    |
-	  | 2024-07-05 | 12 - Analysing data                    |
-	  | 2024-07-12 | 13 - Writing                           |
-	  | 2024-07-19 | 14 - Wrap-up                           |
+	  | 2024-05-24 | 06 – Reading                           |
+	  | 2024-05-31 | 07 – Self-management                   |
+	  | 2024-06-07 | 08 – Corpus linguistics                |
+	  | 2024-06-14 | 09 – Corpus linguistics                |
+	  | 2024-06-21 | 10 – Questionnaires & interviews       |
+	  | 2024-06-28 | 11 – Analysing data                    |
+	  | 2024-07-05 | 12 – Analysing data                    |
+	  | 2024-07-12 | 13 – Writing                           |
+	  | 2024-07-19 | 14 – Wrap-up                           |
 - course description
   id:: 643f2336-49a4-4364-b906-c9632e169d1a
   collapsed:: true
