@@ -135,25 +135,19 @@
 				- [Mendeley](https://www.mendeley.com/)
 	- taking notes on references
 	  collapsed:: true
-		- general recommendation:
+		- general recommendation
 		  collapsed:: true
 			- use a tool for ((6451ff83-844b-4d58-8d7f-95ce3bd20491)) (e.g. [[Logseq]] or [[Obsidian]]) so that you can link notes and thoughts to important concepts (see [[note-taking]])
-		- sustainable note-taking
-		  collapsed:: true
-			- store citation information alongside notes you're taking (e.g. Schmid 2016: 58)
-			- mark everything you copy verbatim to avoid plagiarism
-	- how to use [[Zotero]] for managing references
+		- store citation information alongside notes you're taking (e.g. Schmid 2016: 58)
+		- mark everything you copy verbatim to avoid plagiarism
+	- using [[Zotero]] for managing references
 	  id:: 6463a7be-7bb4-4623-9c5c-bf1a18a0da2b
 	  collapsed:: true
-		- advantages of Zotero
-		  collapsed:: true
-			- free, open-source, cross-platform, collaborative
-			- store references by using, e.g., a [browser extension](https://www.zotero.org/download/)
-			- insert references automatically via plugins for [[Microsoft Word]], [Google Docs]([[Google Docs]]), [Apple Pages]([[Apple Pages]]) etc.
+		- free, open-source, cross-platform, collaborative
+		- store references by using, e.g., a [browser extension](https://www.zotero.org/download/)
+		- insert references automatically via plugins for [[Microsoft Word]], [Google Docs]([[Google Docs]]), [Apple Pages]([[Apple Pages]]) etc.
 - [[practice]]: find relevant references for your research questions
   collapsed:: true
-	- goal for number of sources
-	  collapsed:: true
-		- $\geq$ 2 monographs
-		- $\geq$ 5 papers
+	- $\geq$ 2 monographs
+	- $\geq$ 5 papers
 	- take notes!
