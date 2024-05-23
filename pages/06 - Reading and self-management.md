@@ -1,6 +1,5 @@
-- # [[reading]]
-  collapsed:: true
-	- {{embed [[reading]]}}
-- # [[self-management]]
+- [[06 – Reading]]
+	- {{embed [[06 – Reading]]}}
+- [[self-management]]
   collapsed:: true
 	- {{embed [[self-management]]}}

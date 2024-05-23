@@ -47,7 +47,7 @@
 	- [[self-management]]
 	  collapsed:: true
 		- ![gantt-chart.png](assets/gantt-chart.png)
-	- [[reading]] and [[writing]]
+	- [[06 – Reading]] and [[writing]]
 	  collapsed:: true
 		- ![writing-process.png](assets/writing-process.png)
 	- [[presenting]]
