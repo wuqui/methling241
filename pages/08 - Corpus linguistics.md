@@ -45,5 +45,6 @@
 		- Find a word whose use differs significantly between two countries (e.g. BrE vs AmE).
 - [[practice]]: compile your own corpus using [[Sketch Engine]]
   id:: 648967c1-738a-439e-9283-49c8367d16c7
+  collapsed:: true
 	- ((648031b3-19e9-4eff-b85b-4262f26dfb21))
 	- example data: [[ebooks]] from [[Gutenberg Project]]: https://www.gutenberg.org/
