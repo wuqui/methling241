@@ -1,5 +1,4 @@
 - [[english-corpora.org]]
-  collapsed:: true
 	- website: https://www.english-corpora.org/
 	- documentation
 	  collapsed:: true
@@ -10,7 +9,9 @@
 		- ![image.png](../assets/image_1686726664290_0.png)
 	- use cases
 	  id:: 64896809-e84c-4885-bf8f-f1b73181834f
+	  collapsed:: true
 		- diachronic: the use of *phone* over time
+		  collapsed:: true
 			- [[COHA]]
 			  collapsed:: true
 				- ![image.png](../assets/image_1686726795588_0.png)
@@ -23,6 +24,7 @@
 		- text types: the use of *smartphone* across text types
 		  collapsed:: true
 			- [[COCA]]
+			  collapsed:: true
 				- ![image.png](../assets/image_1686728068479_0.png)
 				- ![image.png](../assets/image_1686728082802_0.png)
 		- regional variation: the use of *autumn* and *fall*
@@ -36,10 +38,13 @@
 				  collapsed:: true
 					- ![image.png](../assets/image_1686728221553_0.png)
 	- [[practice]]
+	  collapsed:: true
 		- Find two words that exhibit significant frequency changes in the 20th century.
+		  collapsed:: true
 			- one that has *increased* in frequency
 			- one that has *decreased* in frequency
 		- Find two words whose use differs significantly between text types.
+		  collapsed:: true
 			- one that is used more often in *formal* text types
 			- one that is used more often in *informal* text types
 		- Find a word whose use differs significantly between two countries (e.g. BrE vs AmE).
