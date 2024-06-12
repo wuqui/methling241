@@ -1,4 +1,5 @@
 - writing a research proposal as a thesis paper
+	- deadline: 31 August, 2024
 	- format
 		- $\approx$ 3–5 pages (2500–5000 characters)
 		- check your Studien-/Prüfungsordnung for exact details

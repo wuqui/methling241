@@ -3,16 +3,17 @@
   id:: 643f8bfc-4718-417d-a94f-c5d69dd55657
   collapsed:: true
 	- I use [[Logseq]] for creating and sharing the course materials.
-- requirements
+- [[requirements]]
   id:: 643f9161-7138-4163-b0f8-3d4062c3d0a2
   collapsed:: true
 	- active attendance
-	- assessment
+	- [[assessment]]
 	  id:: 662a5c90-7e5e-4248-a258-580789c780aa
 		- if BA 2019 & WP 13.2: Modulprüfung
 		  collapsed:: true
 			- {{embed [[Modulprüfung]]}}
 		- writing a research proposal (Thesenpapier)
+		  collapsed:: true
 			- {{embed [[Thesenpapier]]}}
 - schedule
   id:: 643f2336-673c-4882-afe2-ede089a86ea0
@@ -26,7 +27,7 @@
 	  | 2024-05-17 | [[05 - Reference management]] |
 	  | 2024-05-24 | [[06 – Reading]] |
 	  | 2024-06-07 | [[07 – Corpus linguistics]] |
-	  | 2024-06-14 | 08 – Corpus linguistics |
+	  | 2024-06-14 | [[08 – Corpus linguistics]] |
 	  | 2024-06-21 | 09 – Questionnaires & interviews |
 	  | 2024-06-28 | 10 – Analysing data |
 	  | 2024-07-05 | 11 – Analysing data |
