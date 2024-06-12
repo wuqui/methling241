@@ -1,7 +1,6 @@
 - [[Stefanowitsch2020Corpus]]
 	- ((6660528c-06dc-4737-a304-1930af1e4e71))
 	- What is corpus linguistics?
-	  collapsed:: true
 		- ![image.png](../assets/image_1717590874293_0.png){:height 74, :width 572}
 		  (p. 22)
 		- ![image.png](../assets/image_1717619592083_0.png){:height 96, :width 580}
@@ -9,7 +8,6 @@
 	- What is a corpus?
 	  collapsed:: true
 		- definition (p. 22–23)
-		  collapsed:: true
 			- In corpus linguistics, the term is used differently – it refers to a collection of samples of language use with the following properties:
 				- the instances of language use contained in it are **authentic**
 				- the collection is **representative** of the language or language variety under investigation;
