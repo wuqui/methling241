@@ -1,4 +1,8 @@
+- assessment
+  collapsed:: true
+	- {{embed ((662a5c90-7e5e-4248-a258-580789c780aa))}}
 - [[english-corpora.org]]
+  collapsed:: true
 	- website: https://www.english-corpora.org/
 	- documentation
 	  collapsed:: true
