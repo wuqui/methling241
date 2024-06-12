@@ -66,7 +66,7 @@
 			- {{embed ((64896809-e84c-4885-bf8f-f1b73181834f))}}
 		- Sketch Engine
 		  collapsed:: true
-			- {{embed ((648967c1-738a-439e-9283-49c8367d16c7))}}
+			- [[practice]]: compile your own corpus using [[Sketch Engine]]
 	- questionnaires
 	  collapsed:: true
 		- {{embed ((64929eaa-570c-4600-ad1e-6eab1e9b50c6))}}

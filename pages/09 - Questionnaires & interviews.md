@@ -1,6 +1,6 @@
 - [[Thesenpapier]]
 - # corpus linguistics
-	- {{embed ((648967c1-738a-439e-9283-49c8367d16c7))}}
+	- [[practice]]: compile your own corpus using [[Sketch Engine]]
 - # [[questionnaires]]
 	- further reading
 	  collapsed:: true

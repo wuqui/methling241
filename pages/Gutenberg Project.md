@@ -1,0 +1,3 @@
+- [[historical]] [[diachronic]] corpus
+- based on [[books]]
+- available in [[Sketch Engine]]
