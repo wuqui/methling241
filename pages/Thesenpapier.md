@@ -10,3 +10,4 @@
 		- [[data]] and [[methods]]
 		- [[table of contents]]
 		- [[bibliography]]
+	- submission: via email (pdf) by the end of day

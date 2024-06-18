@@ -6,7 +6,6 @@
 		- ![image.png](../assets/image_1717619592083_0.png){:height 96, :width 580}
 		  (p. 55)
 	- What is a corpus?
-	  collapsed:: true
 		- definition (p. 22–23)
 			- In corpus linguistics, the term is used differently – it refers to a collection of samples of language use with the following properties:
 				- the instances of language use contained in it are **authentic**

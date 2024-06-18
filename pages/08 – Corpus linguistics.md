@@ -26,7 +26,6 @@
 		- text types: the use of *smartphone* across text types
 		  collapsed:: true
 			- [[COCA]]
-			  collapsed:: true
 				- ![image.png](../assets/image_1686728068479_0.png){:height 229, :width 548}
 				- ![image.png](../assets/image_1686728082802_0.png){:height 210, :width 365}
 		- regional variation: the use of *autumn* and *fall*
@@ -51,6 +50,7 @@
 		- Find a word whose use differs significantly between two countries (e.g. BrE vs AmE).
 - compiling your own corpora
 	- theory
+	  collapsed:: true
 		- principles of building corpora ([[Knight2022Building]])
 		  collapsed:: true
 			- The contents of a corpus should be selected without regard to the language they contain, but according to their **communicative function** in the community in which they arise.
@@ -87,9 +87,7 @@
 			- example sources
 			  collapsed:: true
 				- Charles Dickens
-				  collapsed:: true
 					- Novels
-					  collapsed:: true
 						- "Great Expectations" (1861)
 						  collapsed:: true
 							- This novel tells the story of Pip, an orphan boy who is adopted by a blacksmith's family. Pip is provided with a mysterious inheritance from an unknown benefactor, which leads him to abandon his lowly origins in the hope of becoming a gentleman.
@@ -97,7 +95,6 @@
 						  collapsed:: true
 							- This is a tale about an orphan, Oliver, who runs away from a workhouse and meets a group of boys trained to be pickpockets by an elderly mentor. The novel explores themes of child labor, treatment of orphans, and the inequities of the criminal justice system of Dickens' time.
 					- Short Stories
-					  collapsed:: true
 						- "A Christmas Carol" (1843)
 						  collapsed:: true
 							- This is a story about Ebenezer Scrooge, a miserly old man who is visited by the ghost of his former business partner Jacob Marley and the Ghosts of Christmas Past, Present, and Yet to Come. After their visits, Scrooge is transformed into a kinder, gentler man.
@@ -105,9 +102,7 @@
 						  collapsed:: true
 							- This is a story of a poor porter, Toby Veck, who receives a vision of the future that shows the devastating consequences of his loss of faith in society. The vision is brought about by the chimes of a church bell.
 				- Mark Twain
-				  collapsed:: true
 					- Novels
-					  collapsed:: true
 						- "The Adventures of Tom Sawyer" (1876)
 						  collapsed:: true
 							- This novel is about a young boy named Tom Sawyer who lives along the Mississippi River. The story is a classic portrayal of a boy's adventures in the mid-nineteenth century, including his escapades at school, his engagement in various pranks, and his running away to become a pirate.
@@ -115,7 +110,6 @@
 						  collapsed:: true
 							- This is a direct sequel to "The Adventures of Tom Sawyer". The novel follows Huck Finn and a runaway slave named Jim as they travel down the Mississippi River on a raft, exploring themes of freedom, friendship, and the often hypocritical societal norms.
 					- Short Stories
-					  collapsed:: true
 						- "The Man That Corrupted Hadleyburg" (1899)
 						  collapsed:: true
 							- This is a piece of short fiction about the residents of Hadleyburg, who are known for their honest reputation, but when a stranger passes through town, he leaves a plan to reveal their deceitful side.
@@ -221,10 +215,8 @@
 			  collapsed:: true
 				- {{video https://www.youtube.com/watch?v=E3U6MsdBalg}}
 			- convert and download YouTube video as audio file (e.g. `mp3`)
-			  collapsed:: true
 				- using, e.g.: [Open Video Downloader](https://github.com/StefanLobbenmeier/youtube-dl-gui)
 			- transcribe audio file using Whisper
-			  collapsed:: true
 				- using, e.g.: https://huggingface.co/spaces/Xenova/whisper-web
 			- create corpus
 			  collapsed:: true

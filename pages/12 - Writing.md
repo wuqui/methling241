@@ -17,6 +17,7 @@
 	  id:: 64ad829f-41b9-4d5c-9105-376d416c09fc
 	  collapsed:: true
 		- Advantages of a Writing Habit
+		  collapsed:: true
 			- Regular Practice
 			  collapsed:: true
 				- Writing regularly helps to improve your writing skills over time. The more you write, the better you become at expressing your thoughts clearly and concisely.
@@ -33,6 +34,7 @@
 			  collapsed:: true
 				- A consistent writing habit often involves regular reading and research, which can improve your ability to find and understand relevant literature.
 		- How to Establish a Writing Habit
+		  collapsed:: true
 			- Set a Schedule
 			  collapsed:: true
 				- Dedicate a specific time each day for writing. This could be early in the morning, during lunch breaks, or in the evening.
@@ -56,6 +58,7 @@
 		- Introduction
 		  collapsed:: true
 			- Fictional dialogue between reader and author (cf. [Franck2006Technik](Franck2006Technik): 143):
+			  collapsed:: true
 				- ![image](../assets/image_1656580397310_0.png)
 		- Main body
 		  collapsed:: true
@@ -77,16 +80,22 @@
 		- clear overall structure, logical relation between sections and subsections
 		- balanced relation theoretical - empirical and between chapters
 		- table-of-content-types:
+		  collapsed:: true
 			- chronological
 			- systematic
+			  collapsed:: true
 				- sections have the same value for the topic; e.g. central issues, functions, theories  & concepts
 			- deductive
+			  collapsed:: true
 				- general >> particular; draw a conclusion from a hypothesis/theory
 			- inductive
+			  collapsed:: true
 				- material >> conclusion and theory; draw a conclusion from observation
 			- causal
+			  collapsed:: true
 				- cause >> consequences
 			- comparative
+			  collapsed:: true
 				- establish relations between various aspects
 			- empirical
 			  id:: 64ad7d2f-fcd8-4c49-a57b-946b3984a34a
@@ -178,6 +187,7 @@
 			- Control for the consistent use of linguistic conventions and a correct referencing throughout your paper.
 	- tools
 	  id:: 64ad7c6d-6063-4529-b7de-3421d62a34db
+	  collapsed:: true
 		- dictionaries
 		  collapsed:: true
 			- [linguee](https://www.linguee.de/)
@@ -198,6 +208,7 @@
 			  collapsed:: true
 				- LanguageTool is a multilingual spelling, style, and grammar checker that helps correct or paraphrase texts. It offers a wide range of language support and can be integrated into various platforms like browsers, word processors, and email clients. LanguageTool is particularly useful for checking grammar and spelling in over 20 languages, and it also provides style and punctuation suggestions. However, as with any automated tool, it's important to review and understand the changes it suggests to ensure they align with your original intent and academic standards.
 		- AI-based tools
+		  collapsed:: true
 			- [QuillBot](https://quillbot.com/)
 			  collapsed:: true
 				- QuillBot is an AI-powered paraphrasing tool that can help students and professionals rewrite, edit, and change the tone of their text to improve clarity and comprehension. It can be used to rephrase any text in a variety of ways, ensuring you use the appropriate vocabulary, tone, and style for any occasion. It also offers a grammar checker, a plagiarism checker, and a summarizer among other features. However, it's important to use it responsibly and ensure that the final work is original and properly cited.
