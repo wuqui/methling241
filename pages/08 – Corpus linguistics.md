@@ -210,7 +210,6 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1689069813967_0.png)
 		- from [[YouTube]]
-		  collapsed:: true
 			- example file
 			  collapsed:: true
 				- {{video https://www.youtube.com/watch?v=E3U6MsdBalg}}
@@ -218,6 +217,7 @@
 				- using, e.g.: [Open Video Downloader](https://github.com/StefanLobbenmeier/youtube-dl-gui)
 			- transcribe audio file using Whisper
 				- using, e.g.: https://huggingface.co/spaces/Xenova/whisper-web
+				  id:: 953a2e59-05a3-4dd9-9aab-149c8d4632b8
 			- create corpus
 			  collapsed:: true
 				- upload your `txt` file(s)
