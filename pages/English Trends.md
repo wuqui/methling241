@@ -1,0 +1,4 @@
+- available in [[Sketch Engine]]
+- description from [SkE documentation](https://www.sketchengine.eu/english-trends-corpus/)
+	- English Trends  corpus: a weekly-updated monitor corpus of news articles
+		- The **English  Trends   corpus**  is an English monitor corpus made up of news articles, Wikipedia, [JSI Timestamped English corpus](https://www.sketchengine.eu/timestamped-english-corpus/) or other sources that are regularly updated from their RSS feeds (newsfeeds). The English trends corpus is updated weekly with new texts and grows by about **70 million words** every week. These regular updates enable you to use the [Trends diachronic analysis tools](https://www.sketchengine.eu/guide/trends/) and study word usage changes, trending words, and neologisms in English.

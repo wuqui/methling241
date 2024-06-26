@@ -1,6 +1,5 @@
 - measures and statistics
   id:: 649bce0a-908c-4a0b-b19b-e9245ea85936
-  collapsed:: true
 	- descriptive statistics vs. inferential statistics
 	  collapsed:: true
 		- ![](../assets/image_1659000393105_0.png)
@@ -15,7 +14,7 @@
 			- **Definition**: Inferential statistics use a random sample of data taken from a population to describe and make inferences about the population. Inferential statistics are valuable when it is not convenient or possible to examine each member of an entire population.
 			- **Example**: From the same linguistics study, we might use inferential statistics to test hypotheses or make predictions. For instance, we might want to know if there's a significant difference between the number of requests made by males and females. We would use the data from our sample to infer something about the population.
 			- **Interpretation**: Inferential statistics make inferences and predictions about a population based on a sample of data taken from the population in question.
-			- **Excel**: Inferential statistics can be performed in Excel using tools in the Data Analysis add-in, such as t-Tests, ANOVA, regression analysis, and more.
+			- [[Microsoft Excel]]: Inferential statistics can be performed in Excel using tools in the Data Analysis add-in, such as t-Tests, ANOVA, regression analysis, and more.
 	- normal distribution and standard deviation
 	  collapsed:: true
 		- ![](../assets/image_1659000194146_0.png)
@@ -25,6 +24,20 @@
 		  collapsed:: true
 			- **Definition**: A probability distribution that is symmetric about the mean, showing data near the mean are more frequent in occurrence than data far from the mean. In graph form, it looks like a bell curve.
 			- **Example**: Human height is a common example of a normally distributed variable. If we measure the height of all adults in a large population, we would find that the heights follow a bell-shaped curve, with most people having a height close to the average, and fewer people being either much taller or much shorter than the average.
+			  collapsed:: true
+				- more examples
+				  collapsed:: true
+					- IQ scores
+					- Blood pressure measurements
+					- Test scores (e.g., SAT, standardized tests)
+					- Birth weights of full-term babies
+					- Shoe sizes within a population
+					- Reaction times in psychological experiments
+					- Annual rainfall in a specific region
+					- Plant growth rates under controlled conditions
+					- Salaries within a particular profession
+					- Time taken to complete a specific task
+					- Noise levels in urban environments
 			- **Interpretation**: A normal distribution implies that the data is evenly distributed around the mean, and most of the data lies within a certain range of the mean. It's an idealized description of statistical data and not all datasets follow this distribution.
 		- **Variance**
 		  collapsed:: true
@@ -74,9 +87,48 @@
 		- **Definition**: Significance testing is a statistical method that tests a hypothesis. It determines whether the observed data deviate from what is expected under the null hypothesis (H0), which generally states that there is no effect or difference.
 		- **Example**: In the previous linguistics study, a significance test could be used to determine if there's a significant difference in the number of requests made by males and females. The null hypothesis might be that there is no difference in the number of requests made by males and females. The alternate hypothesis (H1) would be that there is a difference.
 		- **Interpretation**: The result of a significance test is expressed as a p-value. A small p-value (typically ≤ 0.05) indicates strong evidence against the null hypothesis, so you reject the null hypothesis. A large p-value (> 0.05) indicates weak evidence against the null hypothesis, so you fail to reject the null hypothesis.
-		- **[[Microsoft Excel]]**: Significance tests can be performed in Excel using the Data Analysis add-in, which includes a variety of tests such as t-Tests and ANOVA.
+		- **[[Microsoft Excel]]**
+		  collapsed:: true
+			- `T.TEST()`: Performs a t-test to determine if there's a significant difference between the means of two groups
+			  collapsed:: true
+				- Linguistic applications:
+				  collapsed:: true
+					- Compare average word lengths between two corpora
+					- Analyze differences in sentence complexity scores between genres
+					- Evaluate frequency of specific grammatical structures in different text types
+				- Syntax: `=T.TEST(array1, array2, tails, type)`
+				- Example: Comparing mean sentence length in academic vs. informal texts
+				  collapsed:: true
+					- `array1`: Sentence lengths from academic corpus
+					- `array2`: Sentence lengths from informal corpus
+			- `CHISQ.TEST()`: Performs a chi-square test of independence to analyze the relationship between categorical variables
+			  collapsed:: true
+				- Linguistic applications:
+				  collapsed:: true
+					- Examine distribution of parts of speech across different text genres
+					- Investigate the relationship between text type and use of specific linguistic features
+				- Syntax `=CHISQ.TEST(observed_range, expected_range)`
+				- Example: Analyzing distribution of modal verbs in scientific vs. literary texts
+				  collapsed:: true
+					- `observed_range`: Actual counts of modal verbs in each corpus
+					- `expected_range`: Expected counts based on corpus sizes
+			- `CORREL()`: Calculates the Pearson correlation coefficient between two sets of values
+			  collapsed:: true
+				- Linguistic applications
+				  collapsed:: true
+					- Examine relationship between text length and lexical diversity measures
+					- Analyze correlation between frequency of certain words and text difficulty scores
+					- Investigate associations between different linguistic features across texts
+				- Syntax `=CORREL(array1, array2)`
+				- Example: Correlating type-token ratio with text length in a corpus
+				  collapsed:: true
+					- `array1`: Type-token ratios for each text
+					- `array2`: Word counts for each text
 	- true and false positives
 	  collapsed:: true
+		- matrix
+		  collapsed:: true
+			- ![image.png](../assets/image_1719396293517_0.png){:height 489, :width 432}
 		- **Example**: In the context of a corpus search query, suppose we're looking to find sentences that contain requests. Our "test" is the search query we're using. A "positive" result is when our query correctly identifies a sentence, whether it's identifying a request or correctly identifying a non-request.
 		  collapsed:: true
 			- **True Positive (TP)**: This occurs when the search query correctly identifies a sentence as containing a request. This is a successful detection of a real request.
@@ -89,20 +141,24 @@
 		- [[absolute frequency]]: count/number of occurrences in the corpus
 		- [[relative frequency]]: typically: per million words in the corpus
 		- in [[corpora]]
+		  collapsed:: true
 			- [[english-corpora.org]]
+			  collapsed:: true
 				- `FREQ`: [[absolute frequency]]
 				- `WORDS (M)`: [[corpus size]]
 				- `PER MIL`: [[relative frequency]]
 				- query for `phone` in the [[COHA]]
+				  collapsed:: true
 					- ![image.png](../assets/image_1687933398497_0.png)
 			- on [[Sketch Engine]]
+			  collapsed:: true
 				- `Number of hits`: [[absolute frequency]]
 				- `Number of hits per million tokens`: [[relative frequency]]
 				- query for `[lemma="phone"]` in the [[Gutenberg English 2020]] corpus ([query link](https://app.sketchengine.eu/#concordance?corpname=preloaded%2Fgutenberg20_en&tab=advanced&queryselector=cql&attrs=word&viewmode=kwic&attr_allpos=all&refs_up=0&shorten_refs=0&glue=1&gdexcnt=300&show_gdex_scores=0&itemsPerPage=20&structs=s%2Cg&refs=%3Dbook.title&default_attr=lemma&cql=%5Blemma%3D%22phone%22%5D&showresults=1&showTBL=0&tbl_template=&gdexconf=&f_tab=advanced&f_showrelfrq=1&f_showperc=1&f_showreldens=0&f_showreltt=0&c_customrange=0&operations=%5B%7B%22name%22%3A%22cql%22%2C%22arg%22%3A%22%5Blemma%3D%5C%22phone%5C%22%5D%22%2C%22query%22%3A%7B%22queryselector%22%3A%22cqlrow%22%2C%22cql%22%3A%22%5Blemma%3D%5C%22phone%5C%22%5D%22%2C%22default_attr%22%3A%22lemma%22%7D%2C%22id%22%3A2819%7D%5D))
+				  collapsed:: true
 					- ![image.png](../assets/image_1687933692771_0.png)
 - organising your data: *tidy data* (Hadley Wickham)
   id:: 649bccb1-2184-4e95-8e2d-e719c4755401
-  collapsed:: true
 	- **Each variable forms a column**
 	  collapsed:: true
 		- **Definition**: In tidy data, each variable should have its own column. This allows for clear visibility and easy manipulation of individual variables.
@@ -127,9 +183,11 @@
 	  collapsed:: true
 		- **Definition**: Wide format spreads data across many columns and can be harder to work with. Long format keeps data in a 'tall' structure that is more conducive to many types of analysis.
 		- **Example**: In Excel, this might mean restructuring data so that there are more rows and fewer columns. For example, instead of having separate columns for "Number of Requests by Men" and "Number of Requests by Women", you could have one column for "Gender" and one column for "Number of Requests".
-	- DRY: Don’t repeat yourself
+	- **DRY: Don't Repeat Yourself**
+	  collapsed:: true
+		- **Definition**: A principle emphasizing the reduction of repetition in data and code. It aims to make work more efficient and less prone to errors by avoiding duplication of information.
+		- **Example**: Instead of manually creating multiple tables to show word frequencies across different text genres, use a pivot table. This allows you to dynamically generate various views of the data from a single source, reducing repetition and the risk of inconsistencies when updating information.
 - general tips for using [[Microsoft Excel]]
-  collapsed:: true
 	- use **new tabs** for your analyses to keep raw data and analysis separate
 	- create **tables**
 	- **pivot tables** are very powerful for analysing your data
@@ -137,35 +195,44 @@
 	  collapsed:: true
 		- ![](../assets/image_1659092123412_0.png)
 		  id:: 649bccb1-6ddc-4061-a266-5566888ab58b
+		  collapsed:: true
 - [[practice]]: using [[Sketch Engine]] and [[Microsoft Excel]] for studying clipping
 	- background: [[Hilpert2023Meaning]]
 	  id:: 64b6d19e-ae77-4d06-b79c-2b7e8b5b88fd
+	  collapsed:: true
 		- ![image.png](../assets/image_1687937036489_0.png)
 		  id:: c6190a47-ca17-4d77-89fb-e8f8c72d6f2c
+		  collapsed:: true
 	- for example pairs of (1) source words (e.g. *brother*) and (2) clipped form (e.g. *bro*)
 		- query for
+		  collapsed:: true
 			- lexeme-based: both *brother* and *brothers*
 			- word class
 		- determine their [[frequency]]
 		  id:: ab462d4c-710b-4366-992c-93e25c855823
-			- total frequency in the [[Timestamped JSI web corpus 2014-2021 English]]
+		  collapsed:: true
+			- total frequency in the [[English Trends]] corpus
+			  collapsed:: true
 				- determine frequency
+				  collapsed:: true
 					- [[absolute frequency]]
 					- [[relative frequency]]
 				- collect results
+				  collapsed:: true
 					- enter information in this [[Microsoft Excel]] spreadsheet: https://1drv.ms/x/s!AvkgNVl9yS6aoH-5X3P1zsKIkDTG
 		- analyse results using [[Microsoft Excel]]
 		  id:: 24010604-ede4-474d-8fe4-f3cda5b86f78
-			- TODO insert `Table` for range of data
+		  collapsed:: true
+			- insert `Table` for range of data
 			  collapsed:: true
 				- ![image.png](../assets/image_1687937169666_0.png)
-			- TODO insert `Pivot Table` for `Table`
+			- insert `Pivot Table` for `Table`
 			  collapsed:: true
 				- ![image.png](../assets/image_1687937186967_0.png)
-			- TODO set `Rows`, `Values`, and `Columns`
+			- set `Rows`, `Values`, and `Columns`
 			  collapsed:: true
 				- ![image.png](../assets/image_1687937213681_0.png)
 				- remove `Grand Total` by right-click → remove
-			- TODO insert `Pivot Chart`
+			- insert `Pivot Chart`
 			  collapsed:: true
 				- ![image.png](../assets/image_1687937226017_0.png)

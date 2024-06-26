@@ -1,6 +1,6 @@
 - recap: fundamentals of analysing data
   collapsed:: true
-	- {{embed [[10 - Analysing data]]}}
+	- {{embed [[10 – Analysing data]]}}
 - [[practice]]: managing corpora with images with [[Microsoft Excel]]
   id:: 64a44ee3-a5dd-4ebe-85ba-779bb49944df
   collapsed:: true
@@ -39,7 +39,7 @@
 			  collapsed:: true
 				- ((64a45f71-5e81-41bf-a885-9593ef51ade3))
 				- Modal verbs in English
-id:: 64a45fa0-fb5a-47d4-ba93-a23b5a01fb86
+				  id:: 64a45fa0-fb5a-47d4-ba93-a23b5a01fb86
 					- core modal verbs
 						- will
 						- would

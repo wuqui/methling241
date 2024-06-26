@@ -5,7 +5,6 @@
 	- structure of a questionnaire
 	  collapsed:: true
 		- questionnaire item
-		  collapsed:: true
 			- instructions
 			- question/statement
 			- possible answers
@@ -13,7 +12,7 @@
 	  id:: 64929eaa-570c-4600-ad1e-6eab1e9b50c6
 	  collapsed:: true
 		- open questions
-		- closed questions
+		- closed questions (standardized surveys)
 		  collapsed:: true
 			- with checklists or rankings
 			  collapsed:: true
@@ -21,6 +20,7 @@
 			- with rating scales
 			  collapsed:: true
 				- ![](../assets/image_1658999620130_0.png)
+					- Likert Scale
 			- with semantic differentials
 			  collapsed:: true
 				- ![](../assets/image_1658999633665_0.png)
@@ -29,10 +29,10 @@
 				- ![](../assets/image_1658999651263_0.png)
 			- with multiple-choice questions
 			  collapsed:: true
-				- ![](../assets/image_1658999671347_0.png)
+				- ![](../assets/image_1658999671347_0.png){:height 169, :width 659}
 	- scales
 	  collapsed:: true
-		- ![https://cdn1.byjus.com/wp-content/uploads/2019/08/Scales-of-measurement.png](https://cdn1.byjus.com/wp-content/uploads/2019/08/Scales-of-measurement.png)
+		- ![https://cdn1.byjus.com/wp-content/uploads/2019/08/Scales-of-measurement.png](https://cdn1.byjus.com/wp-content/uploads/2019/08/Scales-of-measurement.png){:height 460, :width 719}
 		- examples
 		  collapsed:: true
 			- **nominal** scale: names
@@ -47,6 +47,13 @@
 		- writing good items
 		  collapsed:: true
 			- ![](../assets/image_1658999771675_0.png)
+				- Most research is done based on WEIRD people.
+				  collapsed:: true
+					- Western
+					- Educated
+					- Industrialized
+					- Rich
+					- Democratic
 	- methods for analysis
 	  collapsed:: true
 		- microlinguistic studies vs. macrolinguistic studies
@@ -145,35 +152,27 @@
 		- types and examples
 		  collapsed:: true
 			- **Elaboration**
-			  collapsed:: true
 				- "Can you tell me more about that?"
 				- "Could you elaborate on that point?"
 			- **Clarification**
-			  collapsed:: true
 				- "What do you mean when you say...?"
 				- "Could you clarify what you meant by...?"
 			- **Example**
-			  collapsed:: true
 				- "Could you give me an example of that?"
 				- "Can you illustrate that point with a specific instance?"
 			- **Justification**
-			  collapsed:: true
 				- "Why do you think that is?"
 				- "What leads you to that conclusion?"
 			- **Relevance**
-			  collapsed:: true
 				- "How does that relate to...?"
 				- "Can you connect that to...?"
 			- **Extension**
-			  collapsed:: true
 				- "What might be the implications of that?"
 				- "How might that affect...?"
 			- **Hypothetical**
-			  collapsed:: true
 				- "What would happen if...?"
 				- "How would you handle a situation where...?"
 			- **Comparison**
-			  collapsed:: true
 				- "How does this compare to...?"
 				- "What are the differences between this and...?"
 	- recording and transcribing

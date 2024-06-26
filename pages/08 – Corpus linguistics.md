@@ -1,4 +1,5 @@
 - assessment
+  collapsed:: true
 	- {{embed ((662a5c90-7e5e-4248-a258-580789c780aa))}}
 - using [[english-corpora.org]]
 	- website: https://www.english-corpora.org/
@@ -12,6 +13,7 @@
 		- ![image.png](../assets/image_1686726664290_0.png)
 	- use cases
 	  id:: 64896809-e84c-4885-bf8f-f1b73181834f
+	  collapsed:: true
 		- diachronic: the use of *phone* over time
 		  collapsed:: true
 			- [[COHA]]
@@ -39,6 +41,7 @@
 				  collapsed:: true
 					- ![image.png](../assets/image_1686728221553_0.png)
 	- [[practice]]
+	  collapsed:: true
 		- Find two words that exhibit significant frequency changes in the 20th century.
 		  collapsed:: true
 			- one that has *increased* in frequency
@@ -210,6 +213,7 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1689069813967_0.png)
 		- from [[YouTube]]
+		  collapsed:: true
 			- example file
 			  collapsed:: true
 				- {{video https://www.youtube.com/watch?v=E3U6MsdBalg}}
