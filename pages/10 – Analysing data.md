@@ -1,4 +1,5 @@
 - practice sheet: [excel-practice.xlsx](../assets/excel-practice_1719868809732_0.xlsx)
+	- [excel-practice.xlsx](file://./assets/excel-practice_1719868809732_0.xlsx)
 - measures and statistics
   id:: 649bce0a-908c-4a0b-b19b-e9245ea85936
 	- descriptive statistics vs. inferential statistics
