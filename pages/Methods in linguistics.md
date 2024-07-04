@@ -29,7 +29,7 @@
 	  | 2024-06-14 | [[08 – Corpus linguistics]] |
 	  | 2024-06-21 | [[09 – Questionnaires & interviews]] | 
 	  | 2024-06-28 | [[10 – Analysing data]] |
-	  | 2024-07-05 | 11 – Analysing data |
+	  | 2024-07-05 | [[11 – Analysing data]] |
 	  | 2024-07-12 | 12 – Writing |
 	  | 2024-07-19 | 13 – Wrap-up |
 - course description

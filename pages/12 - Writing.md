@@ -1,6 +1,6 @@
 - recap: analysing data
   collapsed:: true
-	- {{embed ((64a44ee3-a5dd-4ebe-85ba-779bb49944df))}}
+	- [[practice]]: managing corpora with images with [[Microsoft Excel]]
 	- {{embed ((64a45395-0719-4509-8875-9e2bb910dd6c))}}
 - [[writing]]
 	- start early

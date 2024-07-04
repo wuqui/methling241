@@ -2,6 +2,7 @@
 	- [excel-practice.xlsx](file://./assets/excel-practice_1719868809732_0.xlsx)
 - measures and statistics
   id:: 649bce0a-908c-4a0b-b19b-e9245ea85936
+  collapsed:: true
 	- descriptive statistics vs. inferential statistics
 		- ![](../assets/image_1659000393105_0.png)
 		- **Descriptive Statistics**
@@ -123,6 +124,7 @@
 					- ![image.png](../assets/image_1687933692771_0.png)
 - organising your data: *tidy data* (Hadley Wickham)
   id:: 649bccb1-2184-4e95-8e2d-e719c4755401
+  collapsed:: true
 	- Each observation forms a **row**
 		- **Definition**: Every single observation should be in a different row.
 		- **Example**: In the men and women using requests data, an observation could be the number of requests made by a particular person in a conversation. In Excel, this means each row should represent one such observation.
@@ -145,6 +147,7 @@
 		- **Definition**: A principle emphasizing the reduction of repetition in data and code. It aims to make work more efficient and less prone to errors by avoiding duplication of information.
 		- **Example**: Instead of manually creating multiple tables to show word frequencies across different text genres, use a pivot table. This allows you to dynamically generate various views of the data from a single source, reducing repetition and the risk of inconsistencies when updating information.
 - general tips for using [[Microsoft Excel]]
+  collapsed:: true
 	- use **new tabs** for your analyses to keep raw data and analysis separate
 	- create **tables**
 	- **pivot tables** are very powerful for analysing your data
@@ -170,6 +173,7 @@
 					- enter information in this [[Microsoft Excel]] spreadsheet: https://1drv.ms/x/s!AvkgNVl9yS6aoH-5X3P1zsKIkDTG
 		- analyse results using [[Microsoft Excel]]
 		  id:: 24010604-ede4-474d-8fe4-f3cda5b86f78
+		  collapsed:: true
 			- insert `Table` for range of data
 				- ![image.png](../assets/image_1687937169666_0.png)
 			- insert `Pivot Table` for `Table`
