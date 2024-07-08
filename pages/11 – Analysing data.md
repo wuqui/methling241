@@ -7,13 +7,10 @@
 		- [[language change]] among modal verbs ([[Hilpert2015Grammatical]])
 			- [[Microsoft Excel]] spreadsheet: https://1drv.ms/x/s!AvkgNVl9yS6aoQtzvHHut-cqJceL
 			- theoretical background
-			  collapsed:: true
 				- ((64a45f71-5e81-41bf-a885-9593ef51ade3))
-				- Modal verbs in English
+				- modal verbs in English
 				  id:: 64a45fa0-fb5a-47d4-ba93-a23b5a01fb86
-				  collapsed:: true
 					- core modal verbs
-					  collapsed:: true
 						- will
 						- would
 						- can
@@ -24,58 +21,47 @@
 						- should
 						- must
 					- peripheral modal verbs
-					  collapsed:: true
 						- BE going to
 						- have to
 						- got to
 						- need to
 				- changes in frequency
-				  collapsed:: true
 					- “Another domain of English grammar that is currently undergoing change is the domain of modality, specifically the modal auxiliaries. In the most general of terms, the situation is that several of the core modal auxiliaries” ([[Hilpert2015Grammatical]]: 185)
 					- “are declining in text frequency (Leech 2003; Mair 2006), while at the same time new quasi-modal elements are undergoing grammaticalization (Krug 2000).” ([[Hilpert2015Grammatical]]: 186)
 					- ![image_1687862730894_0.png](../assets/image_1687862730894_0_1688494098240_0.png)
-					  collapsed:: true
-						- [[Hilpert2015Grammatical]]: 186
+					  [[Hilpert2015Grammatical]]: 186
 					- changes observed in previous literature
 					  id:: 64a46021-3dc9-4175-a325-e46880c0f1a6
-					  collapsed:: true
 						- decreases
-						  collapsed:: true
 							- would
 							- may
 							- should
 							- must
 							- shall
 						- increases
-						  collapsed:: true
 							- BE going to
-							- have to
+							- HAVE to
 							- got to
-							- need to
+							- NEED to
 					- “The result is a dynamic situation that raises a number of questions. For instance, it has been asked why certain forms are in decline whereas others are on the upswing. Is there a relation between these developments, and if so, how do we assign the roles of cause and effect?” ([[Hilpert2015Grammatical]]: 186)
 					- potential cause: [[text type/variation]]
-					  collapsed:: true
 						- “One explanation for the discrepancies between the tendencies in the Brown family of corpora and in the Time corpus is the composition of the respective corpora. Whereas the Brown corpora represent a balanced set of genres, the Time corpus represents a single text type. To test whether genre differences explain the discrepancies, Millar (2009: 207) compares his Time results against an analysis of the press genres in the Brown and Frown corpora, finding, however, no satisfactory convergence between the two. Millar thus invokes sampling error as an explanation, which is criticized by Leech (2011a), who replicates the results from the Brown family of corpora on the basis of the balanced diachronic mega-corpora COCA and COHA (Davies 2008, 2010). These results leave the frequency increases of can, could,andmay in Time in need of an explanation, for which Leech (2011a: 557) suggests a genre-specific style change in journalistic writing.” ([[Hilpert2015Grammatical]]: 187)
 			- [[diachronic]] [[frequency]] in the [[COHA]]
-			  collapsed:: true
 				- for each of the following modal verbs
-				  collapsed:: true
 					- {{embed ((64a46021-3dc9-4175-a325-e46880c0f1a6))}}
+				- use a query (e.g. `HAVE_v to VERB`, `must_v VERB`)
 				- determine their absolute and relative frequencies in the decades
-				  collapsed:: true
 					- 1850
 					- 1900
 					- 1950
 					- 2000
+				- target format
 					- ![image_1687959697860_0.png](../assets/image_1687959697860_0_1688494479728_0.png)
 				- create bar charts that show
-				  collapsed:: true
 					- whether these individual words show frequency changes over time
 					- whether the groups of (1) core and (2) peripheral modal verbs show frequency changes on aggregate
 			- [[text type/variation]] in the [[COCA]]
-			  collapsed:: true
 				- Investigating whether those modals that exhibit the highest changes in frequency show (changes in) preferences for specific text types using the [[COCA]]
-				  collapsed:: true
 					- **[[Coefficient of Variation]] (CV)**
 					  collapsed:: true
 						- **Definition**: The coefficient of variation (CV) is a statistical measure that describes the relative variability of data. It is calculated as the ratio of the standard deviation to the mean, and is often expressed as a percentage. This measure is particularly useful when comparing the degree of variation from one data series to another, even if the means are drastically different from each other.
@@ -90,6 +76,7 @@
 							- 2. **Calculate the Standard Deviation**: Use the `STDEV.P` function (for a whole population) or the `STDEV.S` function (for a sample) in Excel to calculate the standard deviation. If your data is in cells A1 to A10, you would type `=STDEV.P(A1:A10)` or `=STDEV.S(A1:A10)` in a new cell.
 							- 3. **Calculate the Coefficient of Variation**: Divide the standard deviation by the mean and multiply by 100 to get the coefficient of variation. If your mean is in cell B1 and your standard deviation is in cell B2, you would type `=(B2/B1)*100` in a new cell.
 	- based on [[Sketch Engine]]
+	  collapsed:: true
 		- [[diachronic]] [[frequency]] in the [[Gutenberg English 2020]] corpus: `the N BE that` ([[Schmid2015Entrenchment]])
 			- abstract
 			  collapsed:: true
