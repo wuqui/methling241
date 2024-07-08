@@ -1,6 +1,5 @@
 - recap: analysing data
   collapsed:: true
-	- [[practice]]: managing corpora with images with [[Microsoft Excel]]
 	- {{embed ((64a45395-0719-4509-8875-9e2bb910dd6c))}}
 - [[writing]]
 	- start early
@@ -99,19 +98,27 @@
 				- establish relations between various aspects
 			- empirical
 			  id:: 64ad7d2f-fcd8-4c49-a57b-946b3984a34a
+			  collapsed:: true
 				- Introduction
+				  collapsed:: true
 					- This section should provide an overview of the topic, the context, and the relevance of the research. It should also include the research question or hypothesis, and a brief summary of what the paper will cover.
 				- Theoretical Background
+				  collapsed:: true
 					- This section should provide a detailed review of the existing literature relevant to your research question. It should highlight the theories and findings of previous studies, and how they relate to your own research. This section should also define any key terms and concepts.
 				- Data
+				  collapsed:: true
 					- This section should describe the data that you will be analyzing in your study. This could include the source of the data, the criteria for selection, and any relevant characteristics of the data. In a corpus linguistic paper, this would typically involve describing the corpus that you are using.
 				- Method
+				  collapsed:: true
 					- This section should describe the methods you used to analyze your data. This should include any specific techniques or procedures, as well as any software or tools used. In a corpus linguistic paper, this might involve describing how you used a particular software tool to analyze the frequency and distribution of certain linguistic features in your corpus.
 				- Results
+				  collapsed:: true
 					- This section should present the findings of your analysis. It should be clear and concise, and use tables, graphs, or other visual aids where appropriate. The results should be presented in a way that directly addresses your research question or hypothesis.
 				- Discussion
+				  collapsed:: true
 					- This section should interpret the results in the context of your research question and the existing literature. It should discuss whether the results support your hypothesis, and what implications they have for the field of linguistics. This section may also identify any limitations of your study, and suggest areas for future research.
 				- Conclusion
+				  collapsed:: true
 					- This section should provide a summary of your research, the main findings, and the implications of these findings. It should also restate the relevance of your research and provide a final thought or reflection on the study.
 	- style and readability
 	  collapsed:: true
@@ -209,16 +216,18 @@
 				- LanguageTool is a multilingual spelling, style, and grammar checker that helps correct or paraphrase texts. It offers a wide range of language support and can be integrated into various platforms like browsers, word processors, and email clients. LanguageTool is particularly useful for checking grammar and spelling in over 20 languages, and it also provides style and punctuation suggestions. However, as with any automated tool, it's important to review and understand the changes it suggests to ensure they align with your original intent and academic standards.
 		- AI-based tools
 		  collapsed:: true
+			- [DeepLWrite](https://www.deepl.com/write)
+			  collapsed:: true
+				- DeepL Write is a powerful AI-driven writing assistant that helps improve the quality and clarity of your text. It offers advanced language enhancement capabilities, focusing on refining your writing style, grammar, and word choice. The tool provides real-time suggestions as you type, helping you craft more polished and professional content. DeepL Write can assist with various types of writing, from academic papers to business documents, by offering alternatives for phrasing, detecting potential errors, and enhancing overall readability. It supports multiple languages, making it particularly useful for non-native speakers looking to perfect their writing in a foreign language. While DeepL Write is an excellent tool for elevating your writing, it's important to critically evaluate its suggestions to ensure they maintain your intended meaning and tone.
+			- [ChatGPT](https://openai.com/chatgpt)
+			  collapsed:: true
+				- ChatGPT by OpenAI is an AI model that can generate human-like text based on the input it's given. It can be used as a tool to help with brainstorming, drafting and editing content, and learning new topics. It's capable of understanding context and providing detailed responses, making it a useful tool for academic writing. However, it's important to use it as a tool to assist your writing process, rather than relying on it to generate your entire paper. Always review and edit the suggestions provided by ChatGPT to ensure they meet your academic standards.
 			- [QuillBot](https://quillbot.com/)
 			  collapsed:: true
 				- QuillBot is an AI-powered paraphrasing tool that can help students and professionals rewrite, edit, and change the tone of their text to improve clarity and comprehension. It can be used to rephrase any text in a variety of ways, ensuring you use the appropriate vocabulary, tone, and style for any occasion. It also offers a grammar checker, a plagiarism checker, and a summarizer among other features. However, it's important to use it responsibly and ensure that the final work is original and properly cited.
 			- [PaperPal](https://paperpal.com/)
 			  collapsed:: true
 				- PaperPal is an advanced AI grammar checker and online academic writing tool that identifies language errors and provides instant, in-depth suggestions to help you polish your manuscript. It offers real-time, subject-specific language suggestions that help you write better and faster. It can check for key rejection parameters, identify and improve problem areas, and provide unlimited revisions and rechecks. It's a great tool for delivering high-quality research articles faster with suggestions to improve language, grammar, and readability as you write. However, always remember to review and understand the changes suggested by the tool to ensure they align with your original intent.
-			- [ChatGPT](https://openai.com/chatgpt)
-			  collapsed:: true
-				- ChatGPT by OpenAI is an AI model that can generate human-like text based on the input it's given. It can be used as a tool to help with brainstorming, drafting and editing content, and learning new topics. It's capable of understanding context and providing detailed responses, making it a useful tool for academic writing. However, it's important to use it as a tool to assist your writing process, rather than relying on it to generate your entire paper. Always review and edit the suggestions provided by ChatGPT to ensure they meet your academic standards.
-			- [DeepLWrite](https://www.deepl.com/write)
 	- further reading
 	  collapsed:: true
 		- ((64ad8336-8140-499f-8e5b-8ecbdd2e15be))
@@ -226,7 +235,3 @@
 		- ((64ad8573-b0e5-438d-86ab-34880f5084a2))
 		- ((64af04f2-4293-4859-8e5e-709414724f1d))
 		- ((64af058a-7fa0-455f-9427-e1b6468a8412))
-- next week
-  collapsed:: true
-	- open issues?
-	- preferences?
