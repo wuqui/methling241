@@ -9,45 +9,31 @@
 		- ![image.png](../assets/image_1686727272501_0.png)
 	- available [[corpora]]
 	  id:: 648967e3-a1bb-43dc-957b-4e95eb21822b
-	  collapsed:: true
 		- ![image.png](../assets/image_1686726664290_0.png)
 	- use cases
 	  id:: 64896809-e84c-4885-bf8f-f1b73181834f
-	  collapsed:: true
 		- diachronic: the use of *phone* over time
-		  collapsed:: true
 			- [[COHA]]
-			  collapsed:: true
 				- ![image.png](../assets/image_1686726795588_0.png)
 			- [[COCA]]
-			  collapsed:: true
 				- ![image.png](../assets/image_1686726834179_0.png){:height 177, :width 306}
 			- [[NOW Corpus]]
-			  collapsed:: true
 				- ![image.png](../assets/image_1686726885697_0.png)
 		- text types: the use of *smartphone* across text types
-		  collapsed:: true
 			- [[COCA]]
 				- ![image.png](../assets/image_1686728068479_0.png){:height 229, :width 548}
 				- ![image.png](../assets/image_1686728082802_0.png){:height 210, :width 365}
 		- regional variation: the use of *autumn* and *fall*
-		  collapsed:: true
 			- [[NOW Corpus]]
-			  collapsed:: true
 				- *autumn*
-				  collapsed:: true
 					- ![image.png](../assets/image_1686728195844_0.png)
 				- *fall*
-				  collapsed:: true
 					- ![image.png](../assets/image_1686728221553_0.png)
 	- [[practice]]
-	  collapsed:: true
 		- Find two words that exhibit significant frequency changes in the 20th century.
-		  collapsed:: true
 			- one that has *increased* in frequency
 			- one that has *decreased* in frequency
 		- Find two words whose use differs significantly between text types.
-		  collapsed:: true
 			- one that is used more often in *formal* text types
 			- one that is used more often in *informal* text types
 		- Find a word whose use differs significantly between two countries (e.g. BrE vs AmE).
@@ -85,6 +71,7 @@
 			- **Subject matter/topic**, e.g. economics;
 			- **Variety** of English, e.g. Learner English.
 	- [[practice]]: using [[Sketch Engine]] to compile corpora
+	  id:: 24c49678-34c1-4521-b793-c485e372e3e0
 		- from documents: [[Gutenberg Project]] corpus
 		  collapsed:: true
 			- example sources

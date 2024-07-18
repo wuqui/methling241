@@ -60,23 +60,27 @@
 			- **[[Microsoft Excel]]**: To calculate standard deviation in Microsoft Excel, you can use the `STDEV.P` function for population standard deviation or `STDEV.S` for sample standard deviation.
 	- measures of central tendency (mean - median - mode)
 	  id:: faa8080e-11c0-4b48-856e-4b4dd8c6c365
-	  collapsed:: true
 		- ![](../assets/image_1659000235522_0.png)
 		- tutorial on Khan Academy: https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/mean-median-basics/a/mean-median-and-mode-review
 		- **Mean**
+		  collapsed:: true
 			- **Definition**: The average of a set of numbers, calculated by adding up all the numbers and dividing by the quantity of numbers.
 			- **Example**: For sentence lengths of 5, 8, 10, 10, and 35 words, the mean is calculated as follows:
+			  collapsed:: true
 				- $$ \text{Mean} = \frac{{5+8+10+10+35}}{5} = 13.6 \text{ words} $$
 			- **Interpretation**: The mean is influenced by outliers and can provide a sense of overall word usage, but it may not accurately represent the most typical sentence length in the presence of extreme values.
 		- **Median**
+		  collapsed:: true
 			- **Definition**: The middle value in a numerically ordered set of numbers. If there's an even quantity of numbers, it's the average of the middle two.
 			- **Example**: For sentence lengths of 5, 8, 10, 10, and 35 words (ordered: 5, 8, 10, 10, 35), the median is 10 words.
 			- **Interpretation**: The median is not affected by outliers, and it provides a measure of the typical sentence length that's robust to extreme values.
 		- **Mode**
+		  collapsed:: true
 			- **Definition**: The most frequently occurring value in a set of numbers.
 			- **Example**: For sentence lengths of 5, 8, 10, 10, and 35 words, the mode is 10 words.
 			- **Interpretation**: Like the median, the mode isn't affected by outliers, and it can provide information about the most common sentence length.
 		- **Key Differences**
+		  collapsed:: true
 			- The mean can be skewed by outliers and may not represent the typical value if the data is skewed.
 			- The median and mode are less sensitive to outliers and can often provide a better sense of the most typical values in a skewed dataset.
 			- Depending on the nature and distribution of the data, one measure may be more appropriate to use over the others.
@@ -123,11 +127,9 @@
 			- **False Negative (FN)**: This occurs when the search query fails to identify a sentence that does contain a request. This is a "miss" — the test failed to detect a real request.
 	- measures of frequency (presented in charts, bars, pies etc.)
 	  id:: 47c6f7a8-a572-4ea8-a61e-2b31641b34f6
-	  collapsed:: true
 		- [[absolute frequency]]: count/number of occurrences in the corpus
 		- [[relative frequency]]: typically: per million words in the corpus
 		- in [[corpora]]
-		  collapsed:: true
 			- [[english-corpora.org]]
 				- `FREQ`: [[absolute frequency]]
 				- `WORDS (M)`: [[corpus size]]

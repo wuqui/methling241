@@ -10,25 +10,18 @@
 			- possible answers
 	- question types
 	  id:: 64929eaa-570c-4600-ad1e-6eab1e9b50c6
-	  collapsed:: true
 		- open questions
 		- closed questions (standardized surveys)
-		  collapsed:: true
 			- with checklists or rankings
-			  collapsed:: true
 				- ![](../assets/image_1658999604013_0.png)
 			- with rating scales
-			  collapsed:: true
 				- ![](../assets/image_1658999620130_0.png)
 					- Likert Scale
 			- with semantic differentials
-			  collapsed:: true
 				- ![](../assets/image_1658999633665_0.png)
 			- with true-false questions
-			  collapsed:: true
 				- ![](../assets/image_1658999651263_0.png)
 			- with multiple-choice questions
-			  collapsed:: true
 				- ![](../assets/image_1658999671347_0.png){:height 169, :width 659}
 	- scales
 	  collapsed:: true

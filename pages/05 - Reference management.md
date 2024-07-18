@@ -27,7 +27,6 @@
 					- ![image.png](../assets/image_1684252982990_0.png){:height 436, :width 628}
 		- web
 		  id:: 6463abc3-0579-42db-a65b-ccff44da6659
-		  collapsed:: true
 			- [Google Scholar](https://scholar.google.com/)
 			- [OpenAlex](https://alpha.openalex.org/works)
 			  collapsed:: true
@@ -55,7 +54,6 @@
 			- [ResearchGate](https://www.researchgate.net/)
 		- 'Schneeballprinzip'
 		  id:: 6463abc3-ff8d-4f47-ab62-7f0ded4e8dcb
-		  collapsed:: true
 			- Find a good, (recent) relevant reference to a topic.
 			  collapsed:: true
 				- Often handbooks provide a high-quality, dense overview.
@@ -63,7 +61,6 @@
 			- Check the references’ references.
 		- [[AI]]-assisted services
 		  id:: 6463ac07-9c1a-422a-80f3-ecb9d4829181
-		  collapsed:: true
 			- [elicit.org](https://elicit.org/)
 			  collapsed:: true
 				- ![image.png](../assets/image_1684255213144_0.png)
@@ -94,7 +91,6 @@
 		- Ask the person marking your paper which styles you can use.
 		- guides
 		  id:: 6463b3b6-b8a2-4693-a21b-8f118d92cb95
-		  collapsed:: true
 			- [Stilblatt](https://www.anglistik.uni-muenchen.de/service_downloads/allgemeine_handouts/stilblatt.pdf) Anglistik LMU
 			  id:: 057e5ed5-2c33-4f44-9780-d6662188afd8
 			  collapsed:: true
@@ -142,7 +138,6 @@
 		- mark everything you copy verbatim to avoid plagiarism
 	- using [[Zotero]] for managing references
 	  id:: 6463a7be-7bb4-4623-9c5c-bf1a18a0da2b
-	  collapsed:: true
 		- free, open-source, cross-platform, collaborative
 		- store references by using, e.g., a [browser extension](https://www.zotero.org/download/)
 		- insert references automatically via plugins for [[Microsoft Word]], [Google Docs]([[Google Docs]]), [Apple Pages]([[Apple Pages]]) etc.

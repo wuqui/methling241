@@ -98,7 +98,6 @@
 				- establish relations between various aspects
 			- empirical
 			  id:: 64ad7d2f-fcd8-4c49-a57b-946b3984a34a
-			  collapsed:: true
 				- Introduction
 				  collapsed:: true
 					- This section should provide an overview of the topic, the context, and the relevance of the research. It should also include the research question or hypothesis, and a brief summary of what the paper will cover.
@@ -194,7 +193,6 @@
 			- Control for the consistent use of linguistic conventions and a correct referencing throughout your paper.
 	- tools
 	  id:: 64ad7c6d-6063-4529-b7de-3421d62a34db
-	  collapsed:: true
 		- dictionaries
 		  collapsed:: true
 			- [linguee](https://www.linguee.de/)

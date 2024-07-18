@@ -7,6 +7,7 @@
 		- [[language change]] among modal verbs ([[Hilpert2015Grammatical]])
 			- [[Microsoft Excel]] spreadsheet: https://1drv.ms/x/s!AvkgNVl9yS6aoQtzvHHut-cqJceL
 			- theoretical background
+			  collapsed:: true
 				- ((64a45f71-5e81-41bf-a885-9593ef51ade3))
 				- modal verbs in English
 				  id:: 64a45fa0-fb5a-47d4-ba93-a23b5a01fb86
@@ -47,6 +48,7 @@
 					- potential cause: [[text type/variation]]
 						- “One explanation for the discrepancies between the tendencies in the Brown family of corpora and in the Time corpus is the composition of the respective corpora. Whereas the Brown corpora represent a balanced set of genres, the Time corpus represents a single text type. To test whether genre differences explain the discrepancies, Millar (2009: 207) compares his Time results against an analysis of the press genres in the Brown and Frown corpora, finding, however, no satisfactory convergence between the two. Millar thus invokes sampling error as an explanation, which is criticized by Leech (2011a), who replicates the results from the Brown family of corpora on the basis of the balanced diachronic mega-corpora COCA and COHA (Davies 2008, 2010). These results leave the frequency increases of can, could,andmay in Time in need of an explanation, for which Leech (2011a: 557) suggests a genre-specific style change in journalistic writing.” ([[Hilpert2015Grammatical]]: 187)
 			- [[diachronic]] [[frequency]] in the [[COHA]]
+			  collapsed:: true
 				- for each of the following modal verbs
 					- {{embed ((64a46021-3dc9-4175-a325-e46880c0f1a6))}}
 				- use a query (e.g. `HAVE_v to VERB`, `must_v VERB`)
@@ -61,6 +63,7 @@
 					- whether these individual words show frequency changes over time
 					- whether the groups of (1) core and (2) peripheral modal verbs show frequency changes on aggregate
 			- [[text type/variation]] in the [[COCA]]
+			  collapsed:: true
 				- Investigating whether those modals that exhibit the highest changes in frequency show (changes in) preferences for specific text types using the [[COCA]]
 					- **[[Coefficient of Variation]] (CV)**
 					  collapsed:: true

@@ -21,13 +21,10 @@ tags:: [[reading]]
 	  collapsed:: true
 		- **scanning**
 		  id:: 6476206a-e328-42f8-b979-21b21eb36b90
-		  collapsed:: true
 			- quick reading, looking for key words
 			  id:: 64762078-b8c1-4ddf-afd2-35bf7a3e67ef
-			  collapsed:: true
 		- **skimming**
 		  id:: 6476206a-220f-4cc7-8fc4-9111db544a3f
-		  collapsed:: true
 			- cross-reading of the whole text; identification of passages to be read more closely later on
 		- **selective reading**
 		  collapsed:: true

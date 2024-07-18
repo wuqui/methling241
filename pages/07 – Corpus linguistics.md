@@ -1,4 +1,5 @@
 - [[Stefanowitsch2020Corpus]]
+  collapsed:: true
 	- ((6660528c-06dc-4737-a304-1930af1e4e71))
 	- What is corpus linguistics?
 		- ![image.png](../assets/image_1717590874293_0.png){:height 74, :width 572}
@@ -51,6 +52,7 @@
 				- to about half a billion (e.g. the COCA mentioned in the preceding chapter).
 			- Looking at the published corpus-linguistic literature, my impression is that for most linguistic phenomena that researchers are likely to want to investigate, these corpus sizes seem sufficient. Let us take this broad range as characterizing a linguistic corpus for practical purposes.” (Stefanowitsch, 2020, p. 38)
 - fundamentals
+  collapsed:: true
 	- What is corpus linguistics about?
 		- Corpus linguistics is a research methodology within the field of linguistics that focuses on the systematic study of language using large and diverse **collections of authentic texts**, known as [[corpora]].
 		- These collections of language data, either written or spoken, provide a comprehensive and [empirical basis]([[empirical data]]) for the analysis of
@@ -94,11 +96,9 @@
 						- [running words (tokens)]([[tokens]]): [[word class]], [[lemmatization]]
 		- [[concordance]]
 		  id:: 648033b8-e219-444d-83dd-04c79b44530c
-		  collapsed:: true
 			- A concordance is a tool that allows researchers to search for specific words, phrases, or patterns in a corpus and display the results in context. This helps researchers to examine language patterns and identify trends across various texts.
 		- [[collocations]]
 		  id:: 648033b8-7985-4fca-b09e-e5f18cfe1862
-		  collapsed:: true
 			- Collocation refers to the co-occurrence of words within a specific context or proximity. Studying collocations can reveal important information about word usage, meaning, and associations.
 			  id:: 643e7a15-ed51-442c-876c-b0e501e8a7c1
 		- [[frequency]]

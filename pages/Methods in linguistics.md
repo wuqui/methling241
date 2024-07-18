@@ -31,7 +31,7 @@
 	  | 2024-06-28 | [[10 – Analysing data]] |
 	  | 2024-07-05 | [[11 – Analysing data]] |
 	  | 2024-07-12 | [[12 - Writing]] |
-	  | 2024-07-19 | 13 – Wrap-up |
+	  | 2024-07-19 | [[13 - Wrap-up]] |
 - course description
   id:: 643f2336-49a4-4364-b906-c9632e169d1a
   collapsed:: true
